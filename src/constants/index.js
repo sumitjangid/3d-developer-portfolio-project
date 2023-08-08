@@ -198,6 +198,7 @@ import {
   const projects = [
     {
       name: "Expense App",
+      demo_link: "https://thankful-sand-0fcd2d710.3.azurestaticapps.net/",
       description:
         "An expense application built using React that helps users track and manage their expenses efficiently.",
       tags: [
@@ -219,6 +220,7 @@ import {
     },
     {
       name: "To Do App",
+      demo_link: "https://agreeable-mud-0c28e5f10.3.azurestaticapps.net/",
       description:
         "A to-do list application that allows users to create, organize, and manage their tasks effectively, using React components.",
       tags: [
@@ -240,6 +242,7 @@ import {
     },
     {
       name: "Trip Guide - Upcoming",
+      demo: "https://orange-field-0826f6010.3.azurestaticapps.net/",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
