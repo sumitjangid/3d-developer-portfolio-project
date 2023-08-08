@@ -119,7 +119,7 @@ import {
       title: "Sr eCommerce Software Engineer",
       company_name: "TravisMathew",
       icon: travismathew,
-      iconBg: "#383E56",
+      iconBg: "#000000",
       date: "Sep 2019 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies",
@@ -133,7 +133,7 @@ import {
       title: "Software Developer",
       company_name: "Experis",
       icon: experis,
-      iconBg: "#E6DEDD",
+      iconBg: "#000000",
       date: "Dec 2017 - Jun 2019",
       points: [
         "Developed front-end UI portal using JavaScript libraries to provide user interface for hospital diagnostic systems",
@@ -146,7 +146,7 @@ import {
       title: "Front End Developer",
       company_name: "48WS",
       icon: fortyeightws,
-      iconBg: "#383E56",
+      iconBg: "#000000",
       date: "Oct 2016 - Dec 2019",
       points: [
         "Involved in Agile/ SCRUM based approach to UI development",
@@ -159,7 +159,7 @@ import {
       title: "Web Developer",
       company_name: "3 Line Design",
       icon: threelinedesign,
-      iconBg: "#E6DEDD",
+      iconBg: "#000000",
       date: "Aug 2016 - Oct 2016",
       points: [
         "Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and PHP",
