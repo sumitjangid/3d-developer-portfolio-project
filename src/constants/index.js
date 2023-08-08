@@ -46,15 +46,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Cloud Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "DevOps Enthusiast",
       icon: creator,
     },
   ];
@@ -239,7 +239,7 @@ import {
       source_code_link: "https://github.com/sumitjangid/react-to-do-app",
     },
     {
-      name: "Trip Guide - Place Holder",
+      name: "Trip Guide - Upcoming",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
