@@ -26,8 +26,8 @@ import experis from "./company/experis.png";
 import fortyeightws from "./company/fortyeightws.png";
 import threelinedesign from "./company/threelinedesign.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import expenseapp from "./expenseapp.png";
+import todoapp from "./todoapp.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -56,7 +56,7 @@ export {
   experis,
   fortyeightws,
   threelinedesign,
-  carrent,
-  jobit,
+  expenseapp,
+  todoapp,
   tripguide,
 };

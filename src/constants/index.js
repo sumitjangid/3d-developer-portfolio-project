@@ -19,10 +19,11 @@ import {
     experis,
     fortyeightws,
     threelinedesign,
-    carrent,
-    jobit,
+    expenseapp,
+    todoapp,
     tripguide,
     threejs,
+    expenseapp,
   } from "../assets";
   
   export const navLinks = [
@@ -171,7 +172,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Sumit proved me wrong.",
       name: "Lorem Ipsum",
       designation: "CFO",
       company: "Lorem Ipsum",
@@ -179,16 +180,16 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Lorem Brown",
+        "I've never met a web developer who truly cares about their clients' success like Sumit does.",
+      name: "Lorem Lorem",
       designation: "COO",
       company: "Lorem Corp",
       image: "https://randomuser.me/api/portraits/lego/2.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Ipsum White",
+        "After Sumit optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      name: "Ipsum Ipsum",
       designation: "CTO",
       company: "456 Ipsum",
       image: "https://randomuser.me/api/portraits/lego/0.jpg",
@@ -197,9 +198,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent - Place Holder",
+      name: "Expense App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "An expense application built using React that helps users track and manage their expenses efficiently.",
       tags: [
         {
           name: "react",
@@ -214,20 +215,20 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: expenseapp,
+      source_code_link: "https://github.com/sumitjangid/codespaces-react-add-expenses-app",
     },
     {
-      name: "Job IT  - Place Holder",
+      name: "To Do App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A to-do list application that allows users to create, organize, and manage their tasks effectively, using React components.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "tailwind",
           color: "green-text-gradient",
         },
         {
@@ -235,8 +236,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: todoapp,
+      source_code_link: "https://github.com/sumitjangid/react-to-do-app",
     },
     {
       name: "Trip Guide - Place Holder",
