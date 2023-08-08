@@ -23,7 +23,6 @@ import {
     todoapp,
     tripguide,
     threejs,
-    expenseapp,
   } from "../assets";
   
   export const navLinks = [
